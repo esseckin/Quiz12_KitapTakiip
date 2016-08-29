@@ -1,0 +1,9 @@
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\bin\WebApplication3.dll.config
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\bin\WebApplication3.dll
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\bin\WebApplication3.pdb
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\bin\AjaxControlToolkit.dll
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\bin\Newtonsoft.Json.dll
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\bin\Newtonsoft.Json.xml
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\obj\Debug\KitapTakipSistemii.csprojResolveAssemblyReference.cache
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\obj\Debug\WebApplication3.dll
+F:\alıstırmalar\hafta20\gun4\Quiz12_KitapTakiip\WebApplication3\obj\Debug\WebApplication3.pdb

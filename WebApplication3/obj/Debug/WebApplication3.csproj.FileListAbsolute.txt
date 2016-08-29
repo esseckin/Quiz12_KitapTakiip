@@ -1,0 +1,6 @@
+C:\Users\Administrator\Source\Workspaces\MvcProje1\WebApplication1\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Administrator\Source\Workspaces\MvcProje1\WebApplication1\WebApplication3\bin\WebApplication3.dll
+C:\Users\Administrator\Source\Workspaces\MvcProje1\WebApplication1\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Administrator\Source\Workspaces\MvcProje1\WebApplication1\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Workspaces\MvcProje1\WebApplication1\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Administrator\Source\Workspaces\MvcProje1\WebApplication1\WebApplication3\obj\Debug\WebApplication3.pdb

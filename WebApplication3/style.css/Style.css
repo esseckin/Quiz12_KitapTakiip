@@ -1,0 +1,23 @@
+﻿body {
+}
+
+#headdiv {
+    width: 900px;
+    height: 100px;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+#headdiv span {
+    border: 5px solid blue;
+    text-align: center;
+}
+
+#headdiv span a {
+    text-decoration: none;
+    padding-left: 50px;
+}
+#headdiv span a:hover
+{
+    background-color:aqua;
+}
